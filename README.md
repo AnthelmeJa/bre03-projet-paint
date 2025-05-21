@@ -1,2 +1,2 @@
-Exercise created via the 3W Academy. https://anthelmeja.github.io/bre03-projet-paint/
+Exercise created via the 3W Academy.
 Have fun drawing!
